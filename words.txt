@@ -1,0 +1,12 @@
+apple
+pear
+banana
+cherry
+python
+jumble
+aesthetic
+dog
+cat
+chair
+umbrella
+rainforest
